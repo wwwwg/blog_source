@@ -1,0 +1,16 @@
+menu:
+  主页: /
+  归档: /archives
+  标签: /tags
+  关于: /about
+
+# duoshuo comment
+duoshuo: false
+duoshuo_name:
+
+# disqus comment
+disqus: false
+disqus_shortname:
+
+# google analytics
+googleTrackId:
